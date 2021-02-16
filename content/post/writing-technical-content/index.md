@@ -4,6 +4,8 @@ date: 2019-07-12
 math: true
 diagram: true
 highlight: true
+authors:
+  - adminCintiya
 image:
   placement: 3
   caption: ""
