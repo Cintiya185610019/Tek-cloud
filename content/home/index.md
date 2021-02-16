@@ -1,6 +1,6 @@
 ---
 type: widget_page
-widget: https://cintiyablog.netlify.app/
+widget: index
 widget_id: index
 headless: true
 weight: 10
