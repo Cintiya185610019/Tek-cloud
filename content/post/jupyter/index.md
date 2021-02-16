@@ -1,11 +1,11 @@
 ---
 summary: ""
 authors:
-  - admin
-lastMod: 2019-09-05T00:00:00Z
+  - adminCintiya
+lastMod: 2019-09-05T00:00:00.000Z
 title: Kuliah di Bidang IT
 subtitle: Kenapa Saya Pilih IT?
-date: 2019-02-05T00:00:00Z
+date: 2019-02-05T00:00:00.000Z
 tags: []
 categories: []
 projects: []
