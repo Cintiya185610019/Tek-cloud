@@ -1,5 +1,5 @@
 ---
-widget: https://wowchemy.com/docs/page-builder/
+widget: starter.blog.intro
 widget_id: intro
 headless: true
 weight: 10
