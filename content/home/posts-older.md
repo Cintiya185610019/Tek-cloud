@@ -2,7 +2,7 @@
 widget: pages
 widget_id: pages
 weight: 30
-title: Fokus dan Cita-cita
+title: ""
 subtitle: ""
 active: true
 content:
@@ -32,6 +32,3 @@ design:
       - 1.9rem
       - "0"
 ---
-**Fokus saya** untuk saat ini ingin bisa membuat aplikasi pada perangkat android dan ingin mendalami pemrograman python.
-
-**Cita-cita saya** adalah menjadi Web Developer.
