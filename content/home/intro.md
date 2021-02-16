@@ -1,5 +1,5 @@
 ---
-widget: https://cintiyablog.netlify.app
+widget: https://wowchemy.com/docs/page-builder/
 widget_id: intro
 headless: true
 weight: 10
