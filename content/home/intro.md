@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: Website Cintiya
 subtitle: Tentang Kota Tegal
-active: true
+active: false
 design:
   columns: "2"
   background:
