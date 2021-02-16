@@ -1,6 +1,4 @@
-<!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
-
-# Blog Template for [Wowchemy Website Builder](https://wowchemy.com)
+# Kota Tegal
 
 The **Blog Template** empowers you to create your own *personal blog* or *build a business around your content*.
 
